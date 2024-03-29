@@ -4,7 +4,7 @@ A Deep Learning model to Predict handwritten digits using Convolutional Neural N
  ## Webapp
  [house-price-prediction-webapp]()
  
- ![logo]()
+ ![logo](https://github.com/siniekoo19/MNIST-Digit-Classification-using-Deep-Learning/assets/144519238/5ee35183-ad8f-40b5-b1c5-91e066ab83b8)
 
 
 ## Project Structure
