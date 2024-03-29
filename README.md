@@ -3,19 +3,20 @@ A Deep Learning model to Predict handwritten digits using Convolutional Neural N
 
  ## Webapp
  [house-price-prediction-webapp](https://house-price-prediction-using-xgboost-webapp.streamlit.app/)
- 
-## Python Libraries
 
-- tensorflow
-- pillow
-- numpy
-- streamlit
 
 ## Project Structure
 The project consists of two main folders:
 
 - `digit-classification.py:` This file contains the code for building the deep learning model.
 - `app.py:` This file hosts the Streamlit application for predicting digit image.
+
+## Python Libraries
+
+- tensorflow
+- pillow
+- numpy
+- streamlit
 
 ## 🚀 About Me
 👋 Hi there! I'm Sinchana Chatterjee, an enthusiastic and determined B.Tech student with a fervent aspiration to excel as a Data Scientist and Data Analyst.
