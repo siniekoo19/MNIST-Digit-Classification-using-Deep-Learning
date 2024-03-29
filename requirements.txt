@@ -1,5 +1,4 @@
 streamlit==1.22.0
 numpy==1.26.3
-PIL==10.0.1
 tensorflow==2.15.0
 keras==3.0.5
